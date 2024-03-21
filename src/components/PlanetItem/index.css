@@ -19,11 +19,14 @@
   text-align: center;
 }
 @media screen and (min-width: 768px) {
+  .PlanetItem-image {
+    width: 550px;
+  }
   .PlanetItem-heading {
-    font-size: 38px;
+    font-size: 31px;
   }
   .PlanetItem-para {
-    font-size: 28px;
-    width: 90%;
+    font-size: 21px;
+    width: 55%;
   }
 }
