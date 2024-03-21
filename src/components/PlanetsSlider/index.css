@@ -3,10 +3,10 @@
   min-height: 100vh;
   background-image: url('https://assets.ccbp.in/frontend/react-js/planets-app/planets-bg-img.png ');
   font-family: 'Roboto';
-  padding: 42px;
+  padding: 28px;
   display: flex;
   flex-direction: column;
-  justify-content: flex-start;
+  justify-content: center;
 }
 .heading {
   font-family: 'Roboto';
